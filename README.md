@@ -1,4 +1,4 @@
-# Sprint-13-ML Clustering No Supervisado
+# ML Clustering No Supervisado
 **Analysis of Gyms and Implementation of Machine Learning for Unsupervised Clustering.**
 
 En este proyecto, nos propusimos analizar y agrupar usuarios de un gimnasio mediante técnicas de Machine Learning no supervisado, específicamente utilizando clustering. El objetivo principal era entender la estructura de los datos de los usuarios y sus comportamientos, para identificar patrones que permitan segmentar a los usuarios de manera más efectiva.
